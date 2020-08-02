@@ -1,6 +1,6 @@
 # NT-Competitions
 Create nitrotype competitions!
-You can run and see instructions [here](https://repl.it/talk/share/Host-Your-NitroType-Comps-without-Filling-In-Sheets/48067)!
+You can run and see instructions [![Run on Repl.it](https://repl.it/badge/NT-Competitions)](https://repl.it/github/reallyverytrash/NT-Competitions)!
 What is this? This is a program designed to make competitions in [nitrotype](https://www.nitrotype.com) for you teams!
 # How To Use This
 First, you will have to **fork** this project. 
