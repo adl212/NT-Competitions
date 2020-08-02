@@ -1,6 +1,6 @@
 # NT-Competitions
 Create nitrotype competitions!
-You can run and see instructions [![Run on Repl.it](https://repl.it/badge/github/reallyverytrash/NT-Competitions)](https://repl.it/github/reallyverytrash/NT-Competitions)!
+You can run and see instructions [![Run on Repl.it](https://repl.it/@adl212/NT-Competitions)](https://repl.it/github/reallyverytrash/NT-Competitions)!
 What is this? This is a program designed to make competitions in [nitrotype](https://www.nitrotype.com) for you teams!
 # How To Use This
 First, you will have to **fork** this project. 
